@@ -1,0 +1,6 @@
+namespace Server {
+	runtimeclass Class {
+		Class();
+		String Property;
+	}
+}
