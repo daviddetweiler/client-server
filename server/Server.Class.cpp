@@ -6,6 +6,7 @@ namespace winrt::Server::implementation
 {
     hstring Class::Property()
     {
+        printf("Client bought an apple\n");
         return L"I am an apple!";
     }
 

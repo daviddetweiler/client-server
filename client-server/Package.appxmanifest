@@ -7,7 +7,7 @@
   IgnorableNamespaces="uap rescap">
 
   <Identity
-    Name="219f6b81-6834-4780-95ff-792fafa5b014"
+    Name="4ffb4a21-a9c9-41bb-8e3d-e3e2b3c09328"
     Publisher="CN=david"
     Version="1.0.0.0" />
 
@@ -50,7 +50,7 @@
         <ActivatableClass ActivatableClassId="Server.Class"></ActivatableClass>
       </OutOfProcessServer>
     </Extension>
-  </Extensions>
+  </Extensions>  
   
   <Capabilities>
     <Capability Name="internetClient" />
